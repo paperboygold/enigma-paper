@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
 '''
-KIT103 Project: Enigma Machine Generator
-
-Name: Lucas Townsend
-ID: 597588
+Enigma Machine Generator
 
 This file hold the main class from which Enigma Machine objects are created.
 It will return its output to the main() function in engima.py
