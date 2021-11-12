@@ -1,9 +1,7 @@
 # -*- coding: utf-8 -*-
 '''
-KIT103 Project: Enigma Machine Plugboard
+Enigma Machine Plugboard
 
-Name: Lucas Townsend
-ID: 597588
 
 This class is responsible for the creation of the Rotor objects as well as the chosen reflector. It returns them to enigmaMachine for assembly.
 '''
