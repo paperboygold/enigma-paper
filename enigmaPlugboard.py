@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
 '''
-KIT103 Project: Enigma Machine Plugboard
-
-Name: Lucas Townsend
-ID: 597588
+Enigma Machine Plugboard
 
 This file contains the Plugboard behavior and settings and returns it to the EnigmaMachine class.
 '''
