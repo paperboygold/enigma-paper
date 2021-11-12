@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
 '''
-KIT103 Project: Enigma Machine Main Program
-
-Name: Lucas Townsend
-ID: 597588
+Enigma Machine Main Program
 
 This is the main file from which the program is called. It can be called from the commandline (command prompt or bash).
 Please note that I have not included error catching in most cases so you must be correct with syntax or the program will crash.
