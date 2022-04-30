@@ -1,5 +1,5 @@
 # enigma-paper
-A Python implementation of the MK3 Enigma machine. Only kept for my reference since it's a mishmash of like three different people's code (unless that's what developing actually comes down to, in which case, I dunno man) mostly created for my own understanding of the Enigma Machine.
+A Python implementation of the MK3 Enigma machine. Only kept for my reference since it is a combination of at least three different people's code (unless that's what developing actually comes down to, in which case, I dunno man) mostly created for my own understanding of the Enigma Machine.
 
 
 ## Examples
